@@ -1,6 +1,6 @@
 # 你好，我是兰世良 👋
 
-前端开发工程师，主要使用 **React / TypeScript**。关注复杂业务的性能、跨端协作和稳定交付，也持续探索独立产品开发与 AI 辅助研发。
+前端开发工程师。关注复杂业务的性能、跨端协作和稳定交付，也持续探索独立产品开发与 AI 辅助研发。
 
 [个人网站与简历](https://lslzqco.cn/resume/) · [PDF 简历](https://lslzqco.cn/resume/resume.pdf) · [在线游戏实验室](https://lslzqco.cn/ai-game-lab/)
 
