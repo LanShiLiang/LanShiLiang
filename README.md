@@ -31,14 +31,6 @@ Chrome Manifest V3 扩展，用可解释的规则分析公开 OHLCV 数据，在
 
 [在线体验](https://lslzqco.cn/)
 
-### 📄 Case Filing Assistant · 本地文书辅助工具
-
-针对简单金钱给付案件的强制执行材料草稿生成 MVP。导入材料后提取候选字段，记录来源并逐项确认，再生成预览和材料包。使用 **Next.js、FastAPI、后台任务与版本校验**，避免旧数据生成结果覆盖新版本。
-
-当前提供本地运行方式，输出供人工复核的草稿。
-
-[公开源码与启动说明](https://github.com/LanShiLiang/CaseFilingAssistant)
-
 ## 我关注的工程问题
 
 - **前端性能**：数据加载、缓存生命周期、内存占用与跨端数据交互。
