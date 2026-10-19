@@ -39,4 +39,4 @@ Chrome Manifest V3 扩展，用可解释的规则分析公开 OHLCV 数据，在
 
 ## 联系我
 
-[查看完整经历](https://lslzqco.cn/resume/) · [邮件联系](mailto:ab118@vip.qq.com)
+ [邮件联系](mailto:ab118@vip.qq.com)
